@@ -29,11 +29,6 @@ ExpenseTracker/
 ├── expenses.csv # Auto-created file to store expenses
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
----
 
 ## 📦 How to Run the Project
 
